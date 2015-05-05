@@ -70,3 +70,7 @@ if err != nil {
 	log.Fatal(err)
 }
 ```
+
+## License
+
+[MIT-LICENSE](https://github.com/olivere/vfs/blob/master/LICENSE)
